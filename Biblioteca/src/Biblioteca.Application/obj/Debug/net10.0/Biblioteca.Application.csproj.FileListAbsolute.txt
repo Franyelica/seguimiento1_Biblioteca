@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\seguimiento_1_franyelica\Biblioteca\src\Biblioteca.Application\bin\Debug\net10.0\Biblioteca.Application.deps.json
+C:\Users\Usuario\Desktop\seguimiento_1_franyelica\Biblioteca\src\Biblioteca.Application\bin\Debug\net10.0\Biblioteca.Application.dll
+C:\Users\Usuario\Desktop\seguimiento_1_franyelica\Biblioteca\src\Biblioteca.Application\bin\Debug\net10.0\Biblioteca.Application.pdb
+C:\Users\Usuario\Desktop\seguimiento_1_franyelica\Biblioteca\src\Biblioteca.Application\bin\Debug\net10.0\Biblioteca.Domain.dll
+C:\Users\Usuario\Desktop\seguimiento_1_franyelica\Biblioteca\src\Biblioteca.Application\bin\Debug\net10.0\Biblioteca.Domain.pdb
+C:\Users\Usuario\Desktop\seguimiento_1_franyelica\Biblioteca\src\Biblioteca.Application\obj\Debug\net10.0\Biblioteca.Application.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\seguimiento_1_franyelica\Biblioteca\src\Biblioteca.Application\obj\Debug\net10.0\Biblioteca.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\seguimiento_1_franyelica\Biblioteca\src\Biblioteca.Application\obj\Debug\net10.0\Biblioteca.Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\seguimiento_1_franyelica\Biblioteca\src\Biblioteca.Application\obj\Debug\net10.0\Biblioteca.Application.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\seguimiento_1_franyelica\Biblioteca\src\Biblioteca.Application\obj\Debug\net10.0\Biblioteca.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\seguimiento_1_franyelica\Biblioteca\src\Biblioteca.Application\obj\Debug\net10.0\Bibliote.A09E2D7B.Up2Date
+C:\Users\Usuario\Desktop\seguimiento_1_franyelica\Biblioteca\src\Biblioteca.Application\obj\Debug\net10.0\Biblioteca.Application.dll
+C:\Users\Usuario\Desktop\seguimiento_1_franyelica\Biblioteca\src\Biblioteca.Application\obj\Debug\net10.0\refint\Biblioteca.Application.dll
+C:\Users\Usuario\Desktop\seguimiento_1_franyelica\Biblioteca\src\Biblioteca.Application\obj\Debug\net10.0\Biblioteca.Application.pdb
+C:\Users\Usuario\Desktop\seguimiento_1_franyelica\Biblioteca\src\Biblioteca.Application\obj\Debug\net10.0\ref\Biblioteca.Application.dll

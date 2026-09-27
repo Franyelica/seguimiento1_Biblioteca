@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Biblioteca",
+    "\\Biblioteca\\src",
+    "\\Biblioteca\\src\\Biblioteca.Api",
+    "\\Biblioteca\\src\\Biblioteca.Api\\Controllers",
+    "\\Biblioteca\\src\\Biblioteca.Application\\Libros",
+    "\\Biblioteca\\src\\Biblioteca.Application\\Libros\\Queries",
+    "\\Biblioteca\\src\\Biblioteca.Application\\Libros\\Queries\\ConsultarLibrosPorCategoria",
+    "\\Biblioteca\\src\\Biblioteca.Infrastructure\\Repositories"
+  ],
+  "SelectedNode": "\\Biblioteca\\src\\Biblioteca.Api\\Controllers\\LibrosController.cs",
+  "PreviewInSolutionExplorer": false
+}
